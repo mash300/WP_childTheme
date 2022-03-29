@@ -1,0 +1,19 @@
+/*
+ Theme Name:   myFirstTheme Child
+ Description:  myFirstTheme Child Theme
+ Author:       Paul Legere
+ Template:     myFirstTheme
+ Version:      1.0.0
+*/
+
+.blueHeader {
+    color: blue;
+}
+
+.redHeader {
+    color: #b8223b;
+}
+
+.blackHeader {
+    color: #000000;
+}
